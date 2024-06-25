@@ -1,0 +1,9 @@
+img{
+    float: right;
+}
+button{
+    float: inline-end;
+}
+.hello{
+    float:inline-end;
+}
